@@ -11,3 +11,7 @@ Dhanush-ck/Dhanush-ck is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Dhanush-ck&theme=transparent&border_radius=10)](https://git.io/streak-stats)
+
+[![Dhanush CK's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhanush-ck&theme=transparent&rank_icon=github&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-ck&layout=compact&theme=transparent)
