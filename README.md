@@ -1,4 +1,4 @@
-<h1> 👋 Hi, I’m Dhanush-ck</h1>
+<h1> 👋 Hi, I’m Dhanush CK</h1>
 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Python and JavaScript
