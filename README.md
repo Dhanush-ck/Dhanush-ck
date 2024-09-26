@@ -3,7 +3,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Python and JavaScript
 - 📫 How to reach me :
-- LinkedIn Profile - https://www.linkedin.com/in/dhanush-ck-5b9aa9283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- LinkedIn Profile - https://www.linkedin.com/in/dhanush-ck
 - ⚡ Fun fact: Interested in debugging
 <!--- 💞️ I’m looking to collaborate on ...--->
 <!---- 😄 Pronouns: ...--->
