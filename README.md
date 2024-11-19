@@ -4,7 +4,7 @@
 - 🌱 I’m currently exploring Python and React.js
 - 📫 How to reach me :
   - [LinkedIn](https://www.linkedin.com/in/dhanush-ck)
-- ⚡ Fun fact: Interested in debugging
+- ⚡ Fun fact: Likes debugging
 <!--- 💞️ I’m looking to collaborate on ...--->
 <!---- 😄 Pronouns: ...--->
 <!---
