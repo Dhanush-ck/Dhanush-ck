@@ -2,8 +2,6 @@
 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently exploring Python and React.js
-- 📫 How to reach me :
-  - [LinkedIn](https://www.linkedin.com/in/dhanush-ck)
 - ⚡ Fun fact: Likes debugging
 
 ###
@@ -36,6 +34,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="55" alt="wordpress logo"  />
 </div>
+
+###
+
+# Connect with me
+Let's connect together 
+- [LinkedIn](https://www.linkedin.com/in/dhanush-ck)
+- [Portfolio](https://dhanushckme.web.app/)
 
 ###
 
