@@ -1,4 +1,4 @@
-<h1> 👋 Hi, I’m Dhanush CK</h1>
+<h1>Hi, I’m Dhanush CK 👋</h1>
 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently exploring Python and React.js
@@ -6,7 +6,7 @@
 
 ###
 
-<h1> Tech and Tools </h2>
+<h1> Tech and Tools 📱 </h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo"  />
   <img width="12" />
@@ -37,7 +37,7 @@
 
 ###
 
-# Connect with me
+# Connect with me 🔗
 Let's connect together 
 - [LinkedIn](https://www.linkedin.com/in/dhanush-ck)
 - [Portfolio](https://dhanushckme.web.app/)
