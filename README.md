@@ -1,13 +1,13 @@
 <h1>Hi, I’m Dhanush CK 👋</h1>
 
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently exploring Python and React.js
+- 🌱 I’m currently exploring Python and Django
 - ⚡ Fun fact: Likes debugging
 
 ###
 
 <h1> Tech and Tools 📱 </h2>
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="css3 logo"  />
@@ -44,7 +44,7 @@ Let's connect together
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=Dhanush-ck&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=5&order=3" height="253" alt="streak graph"  />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Dhanush-ck&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
@@ -55,8 +55,8 @@ Let's connect together
 
 ###
 
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app?username=Dhanush-ck&theme=nord&column=-1&row=2&margin-w=10&margin-h=10&no-bg=true&no-frame=true&order=4" height="100" alt="trophy graph"  />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Dhanush-ck&theme=nord&column=3&row=2&margin-w=10&margin-h=10&no-bg=true&no-frame=true&order=4" height="200" alt="trophy graph"  />
 <!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanush-ck&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  /> -->
 </div>
 
