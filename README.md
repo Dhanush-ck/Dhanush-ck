@@ -1,8 +1,8 @@
 <h1>Hi, I’m Dhanush CK 👋</h1>
 
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Development, especially in Web Development
 - 🌱 I’m currently exploring Python and Django
-- ⚡ Fun fact: Likes debugging
+- ⚡ Fun fact: Loves debugging
 
 ###
 
